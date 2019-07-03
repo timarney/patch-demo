@@ -13,8 +13,5 @@
     "timarney-module1": "^1.0.1",
     "timarney-module2": "^1.0.2",
     "timarney-module3": "^1.0.1"
-  },
-  "devDependencies": {
-    "patch-package": "^6.1.2"
   }
 }
